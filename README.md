@@ -2,7 +2,7 @@
 
 ## Pentru saptamana 3:
 
-Implementati o aplicatie Angular care va suporta operatiile de mai sus comunicand cu serverul de .NET REST API.
+Implementati o aplicatie Angular care va suporta operatiile de pana acum comunicand cu serverul de .NET REST API.
 
 ---- 
 

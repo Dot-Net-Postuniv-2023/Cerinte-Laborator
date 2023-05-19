@@ -1,5 +1,11 @@
 # Cerinte Laborator
 
+## Pentru saptamana 3:
+
+Implementati o aplicatie Angular care va suporta operatiile de mai sus comunicand cu serverul de .NET REST API.
+
+---- 
+
 ## Pentru saptamana 2: 
 Scrieti o aplicatie .NET REST API pentru time tracking. Vor fi suportate functionalitatile:
 

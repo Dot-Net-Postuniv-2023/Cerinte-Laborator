@@ -6,6 +6,7 @@
 - Adaugati SQL Server aplicatiei de backend.
 - Adaugati stilizare aplicatiei de frontend (folosind Bulma, Bootstrap, Angular Material sau ceva similar), pentru toate componentele.
 
+----
 
 ## Pentru saptamana 3:
 #### 27.05.2023

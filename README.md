@@ -1,7 +1,7 @@
 # Cerinte Laborator
 
 ## Pentru saptamana 4:
-#### 02.06.2023
+#### 03.06.2023
 
 - Adaugati SQL Server aplicatiei de backend.
 - Adaugati stilizare aplicatiei de frontend (folosind Bulma, Bootstrap, Angular Material sau ceva similar), pentru toate componentele.

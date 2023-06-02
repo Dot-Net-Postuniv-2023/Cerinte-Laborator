@@ -1,5 +1,14 @@
 # Cerinte Laborator
 
+## Pentru saptamana 5:
+#### 10.06.2023
+
+1. Adaugati inca un model in aplicatie: `SubActivity`: `Description`, `Numar ore`, `Dificultate`. Rulati migrarile necesare si creati functionalitatile CRUD pe controller / controllere.
+2. Implementati pe Frontend CRUD folosind Reactive Forms. Vor exista pagini separate pentru: afisare activitati, adaugare activitate, detalii activitate, editare activitate. Subactivitatile sa apara in pagina de Details pentru o activitate. Pagina de afisare activitati sa afiseze numarul total de ore ca suma a orelor subactivitatilor.
+3. In formularul de Adaugare activitate sa pot adauga, fara refresh, oricate subactivitati vreau. Ar trebui sa exista campuri pentru atributele unei subactivitati si butoane care genereaza sau sterg dinamic campurile formularului pentru subactivitati. Vezi finalul cursului 4 si codul aferent pentru exemple.
+
+----
+
 ## Pentru saptamana 4:
 #### 03.06.2023
 

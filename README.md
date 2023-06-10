@@ -1,5 +1,14 @@
 # Cerinte Laborator
 
+## Pentru saptamana 6:
+#### 17.06.2023
+
+1. Adaugati un model `User` cu campurile `Username`, `Password`, `IsConfirmed` si alte `3` campuri optionale. Parola trebuie sa fie hashed.
+2. Implementati register si login folosind `JWT` in endpoint-urile: `/api/token/register`, `api/token/confirm/<username>`, `api/token/login`.
+3. Asociati fiecare `Activity` cu un `User`.
+
+----
+
 ## Pentru saptamana 5:
 #### 10.06.2023
 

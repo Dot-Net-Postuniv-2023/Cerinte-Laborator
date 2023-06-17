@@ -1,5 +1,15 @@
 # Cerinte Laborator
 
+## Pentru saptamana 7:
+#### 24.06.2023
+
+1. Adaugati `Register` si `Login` pe frontend, folosind `HttpInterceptor`.
+2. Daca tokenul expira sau daca userul nu este logat cand acceseaza o pagina, ar trebui redirectat catre pagina de login.
+3. Daca userul face login dupa o redirectare, dupa login ar trebui redirectat catre pagina accesata initial.
+4. Folositi `AutoMapper`.
+
+----
+
 ## Pentru saptamana 6:
 #### 17.06.2023
 
